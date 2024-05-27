@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/3ad02f6649764f438b4cc74f8b7cd978/artifacts
+end_time: 1716793870245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ad02f6649764f438b4cc74f8b7cd978
+run_name: lyrical-bird-215
+run_uuid: 3ad02f6649764f438b4cc74f8b7cd978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716793855388
+status: 3
+tags: []
+user_id: codespace

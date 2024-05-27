@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/40488668588b4ea7a23afb4774b2e0ff/artifacts
+end_time: 1716793754093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40488668588b4ea7a23afb4774b2e0ff
+run_name: merciful-hen-316
+run_uuid: 40488668588b4ea7a23afb4774b2e0ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716793743263
+status: 3
+tags: []
+user_id: codespace

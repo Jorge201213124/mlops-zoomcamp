@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/dafb92377d1748bc897f09e0b4505986/artifacts
+end_time: 1716793601857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dafb92377d1748bc897f09e0b4505986
+run_name: caring-elk-987
+run_uuid: dafb92377d1748bc897f09e0b4505986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716793588515
+status: 3
+tags: []
+user_id: codespace

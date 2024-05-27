@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/83ac47c580a24a33b61c63b67d9be5ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83ac47c580a24a33b61c63b67d9be5ac
+run_name: rumbling-hare-709
+run_uuid: 83ac47c580a24a33b61c63b67d9be5ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716791485114
+status: 1
+tags: []
+user_id: codespace

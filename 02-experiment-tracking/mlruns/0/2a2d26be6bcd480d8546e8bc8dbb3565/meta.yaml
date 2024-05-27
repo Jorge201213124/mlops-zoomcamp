@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/2a2d26be6bcd480d8546e8bc8dbb3565/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a2d26be6bcd480d8546e8bc8dbb3565
+run_name: dazzling-stork-59
+run_uuid: 2a2d26be6bcd480d8546e8bc8dbb3565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716792004218
+status: 1
+tags: []
+user_id: codespace

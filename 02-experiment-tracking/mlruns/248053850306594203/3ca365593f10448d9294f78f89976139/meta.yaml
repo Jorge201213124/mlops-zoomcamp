@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/248053850306594203/3ca365593f10448d9294f78f89976139/artifacts
+end_time: 1716794231155
+entry_point_name: ''
+experiment_id: '248053850306594203'
+lifecycle_stage: active
+run_id: 3ca365593f10448d9294f78f89976139
+run_name: capable-ram-179
+run_uuid: 3ca365593f10448d9294f78f89976139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716794216275
+status: 3
+tags: []
+user_id: codespace
